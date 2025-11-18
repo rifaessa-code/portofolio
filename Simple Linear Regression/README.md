@@ -67,9 +67,9 @@ Statistical outputs include:
 
 ## 📝 Output Summary  
 *(Fill this section after SPSS analysis)*  
-- **Regression Coefficient (b):**  
-- **Significance (t-test):**  
-- **R² Value:**  
+- **Regression Coefficient (b): 0,474** 
+- **Significance (t-test): 0,000 (8,552)**
+- **R² Value: 0,518**  
 
 ---
 
