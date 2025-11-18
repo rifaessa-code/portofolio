@@ -10,7 +10,6 @@ The analyses focus on understanding variable relationships, prediction, classifi
 Included methods:
 - Simple Linear Regression  
 - Multiple Linear Regression  
-- Multiple Logistic Regression  
 - Binary Logistic Regression  
 - Multivariate Adaptive Regression Splines (MARS)  
 - Path Analysis  
@@ -37,16 +36,7 @@ Included methods:
 
 ---
 
-### **3. Multiple Logistic Regression (SPSS)**
-- Categorical outcome with more than two classes  
-- Odds ratio interpretation  
-- Likelihood Ratio Test  
-- Confusion matrix and classification accuracy  
-- Pseudo R²  
-
----
-
-### **4. Binary Logistic Regression (SPSS)**
+### **3. Binary Logistic Regression (SPSS)**
 - Binary outcome (0/1)  
 - Odds ratios  
 - Wald test  
@@ -55,7 +45,7 @@ Included methods:
 
 ---
 
-### **5. Multivariate Adaptive Regression Splines (MARS) — RStudio**
+### **4. Multivariate Adaptive Regression Splines (MARS) — RStudio**
 - Nonlinear modeling  
 - Hinge functions and basis functions  
 - Variable importance ranking  
@@ -64,7 +54,7 @@ Included methods:
 
 ---
 
-### **6. Path Analysis (SPSS)**
+### **5. Path Analysis (SPSS)**
 Path Analysis evaluates **direct and indirect effects** among variables in a causal structure.
 
 The analysis includes:
@@ -80,7 +70,7 @@ Outputs may include:
 
 ---
 
-### **7. Moderation Regression (SPSS)**  
+### **6. Moderation Regression (SPSS)**  
 Moderation Regression (Regresi Moderasi) is used to test whether the relationship between an independent variable (X) and dependent variable (Y) changes depending on a moderator variable (M).
 
 The workflow includes:
